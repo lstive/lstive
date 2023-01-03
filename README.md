@@ -1,4 +1,4 @@
-### Hola me llamo Stive L
+# Hola me llamo Stive L
 
 ## Intereses
 Estoy interesado en diversas ramas de la programación.
